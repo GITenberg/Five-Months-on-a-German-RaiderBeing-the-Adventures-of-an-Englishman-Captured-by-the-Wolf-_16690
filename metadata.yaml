@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6868'
     url: http://www.gutenberg.org/2009/agents/6868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16690#Five-Months-on-a-German-RaiderBeing-the-Adventures-of-an-Englishman-Captured-by-the-Wolf-
 gutenberg_bookshelf:
 - World War I
 - Germany
